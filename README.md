@@ -1,5 +1,2 @@
-# myPage
+Everything is in the gh-pages branch
 
-My examople Page
-
-This pase was created
