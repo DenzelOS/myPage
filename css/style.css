@@ -1,0 +1,107 @@
+/*
+File: styles.css
+Stylesheet for My First Web Page about Akali
+Denzel Ohene Sakyi, University Of Massachusetts Lowell, Denzel_OheneSakyi@student.uml.edu
+PART 2: First Web Page
+Updated by [Your Initials] on [5/19/2024]
+*/
+
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Styling the header */
+header {
+    background-color: #008000; /* Green background for header */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Styling the main content area */
+main {
+    padding: 20px;
+}
+
+/* Styling sections within the main content area */
+section {
+    margin-bottom: 20px;
+}
+
+/* Styling the h2 elements */
+h2 {
+    color: #008000; /* Green color for section headings */
+    font-size: 2em; /* Increase font size for section headings */
+}
+
+/* Styling the h3 elements */
+h3 {
+    color: #008000; /* Green color for sub-headings */
+    font-size: 1.5em; /* Increase font size for sub-headings */
+}
+
+/* Styling the lists */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* Styling the links */
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styling the images */
+.image-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.image-container {
+    text-align: center;
+    width: 30%;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+/* Styling the tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #008000; /* Green background for table headers */
+    color: white;
+}
+
+/* Styling the footer */
+footer {
+    background-color: #008000; /* Green background for footer */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
